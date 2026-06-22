@@ -64,37 +64,12 @@ The project follows a Star Schema architecture where:
 * Training, Recruitment, Engagement Survey, and Performance tables are connected using Employee ID.
 * A custom DimDate table enables Time Intelligence calculations.
 
-## 🔗 Query Dependency / Data Model
-
-![Query Dependency](screenshots/ss_4.png)
-
----
-
-# 📸 Dashboard Screenshots
-
-## 👥 Workforce Overview Dashboard
-
-![Workforce Overview](screenshort/ss_1.png)
-
----
-
-## 📉 Attrition Analysis Dashboard
-
-![Attrition Analysis](screenshort/ss_2.png)
-
----
-
-## 💰 Compensation Dashboard
-
-![Compensation Dashboard](screenshort/ss_3.png)
-
----
 
 ## 🔗 Data Model & Query Dependency
 
-![Query Dependency](screenshort/ss_4.png)## 👥 Workforce Overview
+![Query Dependency](Screenshots/ss_4.PNG)## 👥 Workforce Overview
 
-![Workforce Overview](screenshots/ss_1.png)
+![Workforce Overview](Screenshots/ss_1.PNG)
 
 ### Key Insights
 
@@ -109,7 +84,7 @@ The project follows a Star Schema architecture where:
 
 ## 📉 Attrition Analysis
 
-![Attrition Analysis](screenshots/ss_2.png)
+![Attrition Analysis](Screenshots/ss_2.PNG)
 
 ### Key Insights
 
@@ -123,7 +98,7 @@ The project follows a Star Schema architecture where:
 
 ## 💰 Compensation & Training Analytics
 
-![Compensation Dashboard](screenshots/ss_3.png)
+![Compensation Dashboard](Screenshots/ss_3.PNG)
 
 ### Key Insights
 
