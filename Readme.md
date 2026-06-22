@@ -67,9 +67,9 @@ The project follows a Star Schema architecture where:
 
 ## 🔗 Data Model & Query Dependency
 
-![Query Dependency](Screenshots/ss_4.PNG)## 👥 Workforce Overview
+![Query Dependency](Screenshots/Ss_4.PNG)## 👥 Workforce Overview
 
-![Workforce Overview](Screenshots/ss_1.PNG)
+![Workforce Overview](Screenshots/Ss_1.PNG)
 
 ### Key Insights
 
@@ -84,7 +84,7 @@ The project follows a Star Schema architecture where:
 
 ## 📉 Attrition Analysis
 
-![Attrition Analysis](Screenshots/ss_2.PNG)
+![Attrition Analysis](Screenshots/Ss_2.PNG)
 
 ### Key Insights
 
@@ -98,7 +98,7 @@ The project follows a Star Schema architecture where:
 
 ## 💰 Compensation & Training Analytics
 
-![Compensation Dashboard](Screenshots/ss_3.PNG)
+![Compensation Dashboard](Screenshots/Ss_3.PNG)
 
 ### Key Insights
 
