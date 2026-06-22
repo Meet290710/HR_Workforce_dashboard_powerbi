@@ -68,6 +68,8 @@ The project follows a Star Schema architecture where:
 ## 🔗 Data Model & Query Dependency
 
 ![Query Dependency](Screenshots/Ss_4.png)
+
+## 👥 Workforce Overview Dashboard
 ![Workforce Overview](Screenshots/Ss_1.png)
 
 ### Key Insights
